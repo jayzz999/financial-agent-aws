@@ -192,7 +192,7 @@ elif page == "🏗️ Architecture":
 ```
     
         
-    │         AWS Cloud Infrastructure        │
+              AWS Cloud Infrastructure        
     ├─────────────────────────────────────────┤
     │                                         │
     │  🌐 API Gateway (Public REST API)       │
